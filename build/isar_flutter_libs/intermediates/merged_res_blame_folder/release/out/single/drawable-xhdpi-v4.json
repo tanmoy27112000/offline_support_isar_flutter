@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/isar_flutter_libs/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/isar_flutter_libs/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/isar_flutter_libs/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/isar_flutter_libs/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/isar_flutter_libs/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

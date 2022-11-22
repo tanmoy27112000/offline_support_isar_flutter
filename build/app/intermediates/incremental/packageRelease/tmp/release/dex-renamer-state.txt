@@ -1,0 +1,4 @@
+#Tue Nov 22 23:16:28 IST 2022
+base.0=/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

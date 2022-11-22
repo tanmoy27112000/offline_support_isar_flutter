@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/vams/medicineinventory/BuildConfig.java
+ com.vams.medicineinventory.BuildConfig

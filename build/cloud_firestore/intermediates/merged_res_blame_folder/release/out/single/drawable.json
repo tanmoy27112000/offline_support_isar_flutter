@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/f58498a3641a0b4078db8eb0d24ddce5/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/tanmoykarmakar/Documents/flutter apps/vams_internship/medicine_inventory/build/cloud_firestore/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/tanmoykarmakar/.gradle/caches/transforms-2/files-2.1/db11aab57f7cc8d0296c43256cc67133/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:5:5-15:19
+provider#androidx.startup.InitializationProvider
+ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:6:9-14:20
+	tools:node
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:8:13-31
+	android:authorities
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:9:13-68
+	android:exported
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:10:13-37
+	android:name
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:7:13-67
+meta-data#dev.isar.isar_flutter_libs.IsarInitializer
+ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:11:13-13:52
+	android:value
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:13:17-49
+	android:name
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml:12:17-74
+uses-sdk
+INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanmoykarmakar/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/isar_flutter_libs-3.0.5/android/src/main/AndroidManifest.xml

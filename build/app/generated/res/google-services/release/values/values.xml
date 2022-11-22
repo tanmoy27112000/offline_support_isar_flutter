@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">9365348600-t5dn20796do65q3f9cd9naiobsd4m26k.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vams-library-management-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">9365348600</string>
+    <string name="google_api_key" translatable="false">AIzaSyBpB2vWYE0n8wiK1LV59Cb2Q7cEQ_sA0mw</string>
+    <string name="google_app_id" translatable="false">1:9365348600:android:2be60e350101bd3669db0d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpB2vWYE0n8wiK1LV59Cb2Q7cEQ_sA0mw</string>
+    <string name="google_storage_bucket" translatable="false">vams-library-management.appspot.com</string>
+    <string name="project_id" translatable="false">vams-library-management</string>
+</resources>
